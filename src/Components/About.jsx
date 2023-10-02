@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -23,20 +23,19 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description = `I'm currently a "Computer Science and Technologies for Software Production" (Software Engineering) student at Università degli Studi di Bari - Aldo Moro (Uniba).`;
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Project Managing",
+  "Problem Solving",
+  "Software Engineering Diagrams",
+  "Web Developing",
+  "Basic Data Analysis",
+  "Database Systems",
 ];
 
 /**
@@ -44,8 +43,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = `I'm interested in Software Engineering and Artifical Intelligence technologies. I'm graduating for bachelor's degree this year, and I'm planning to continue my studies after with a major.`;
 
 const About = () => {
   return (
