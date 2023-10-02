@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "",
   medium: "",
   twitter: "",
-  youTube: "Pinona Bubu",
+  youTube: "@pinonabubu6262",
 };
 
 const primaryColor = "#4E567E";
